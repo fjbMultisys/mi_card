@@ -3,4 +3,5 @@
 A basic business card made on flutter using the Card widget.
 
 ## Preview
-![Screenshot 2023-03-01 210236](https://user-images.githubusercontent.com/76004625/222189261-5e5f4ab2-4b5e-4653-91c8-5424a16063a0.png)
+
+<img width="363" alt="Screen Shot 2023-03-04 at 4 16 37 PM" src="https://user-images.githubusercontent.com/72058376/222885149-5a6cbc8f-7a6d-4321-a62b-a9fb36fba972.png">
